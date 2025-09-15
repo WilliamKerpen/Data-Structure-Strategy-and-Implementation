@@ -1,0 +1,10 @@
+[package]
+name = "aulas"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "aulas"
+path = "main.rs"
